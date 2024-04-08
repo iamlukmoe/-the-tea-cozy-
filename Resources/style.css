@@ -8,11 +8,13 @@
   li {
     text-decoration: underline;
     list-style-type: none;
+    text-align: right;
   }
 
   header {
     height: 69px;
     display: inline-block;
+    border-bottom: 1px solid seashell;
   }
 
   #logo {
