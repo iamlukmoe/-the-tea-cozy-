@@ -11,14 +11,17 @@
     text-align: right;
   }
 
-  header {
+.fixed-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
     height: 69px;
-    width: auto;
     display: inline-block;
     border-bottom: 1px solid seashell;
   }
 
-  #logo {
+  .logo {
     height: 50px;
   }
 
@@ -35,4 +38,5 @@
   position: absolute;
   z-index: 1;
   background-color: black;
+  
  }
