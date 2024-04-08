@@ -25,6 +25,7 @@
     text-decoration: underline;
     list-style-type: none;
     text-align: right;
+    display: flex;
   }
 
   .hero {
