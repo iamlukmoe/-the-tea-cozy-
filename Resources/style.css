@@ -12,4 +12,9 @@
 
   header {
     height: 69px;
+    display: inline-block;
+  }
+
+  #logo {
+    height: 50px;
   }
