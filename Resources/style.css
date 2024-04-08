@@ -20,3 +20,12 @@
   #logo {
     height: 50px;
   }
+
+  main {
+    height: 700px;
+    width: 1200px;
+  }
+
+ #main-text {
+  background-color: black;
+ }
