@@ -13,6 +13,7 @@
     height: 69px;
     display: flex;
     border-bottom: 1px solid seashell;
+    z-index: 1000;
   }
 
   .logo {
@@ -38,7 +39,12 @@
  .main-text {
   position: absolute;
   z-index: 1;
+  width: 100%;
   background-color: black;
+ }
+
+ .main-text h2 h4 {
+  text-align: center;
  }
 
  body {
