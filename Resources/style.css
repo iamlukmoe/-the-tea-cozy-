@@ -16,7 +16,7 @@
     z-index: 1000;
   }
 
-  .logo {
+  .logo img {
     margin: 10px;
     height: 50px;
   }
@@ -27,7 +27,7 @@
     text-align: right;
   }
 
-  main {
+  .hero {
     position: relative;
     display: flex;
     align-items: center;
