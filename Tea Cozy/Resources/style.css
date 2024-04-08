@@ -1,0 +1,15 @@
+* {
+    font-family: Helvetica;
+    background-color: black; 
+    font-size: 22px;
+    color: seashell;
+  }
+
+  li {
+    text-decoration: underline;
+    list-style-type: none;
+  }
+
+  header {
+    height: 69px;
+  }
