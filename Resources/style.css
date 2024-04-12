@@ -107,7 +107,7 @@ nav li {
 }
 
 #locations .flex-container {
-  width: 1100px;
+  max-width: 1100px;
   margin: auto;
 }
 
