@@ -58,6 +58,8 @@ nav li {
   height: 700px;
   background-image: url(/the-tea-cozy/Resources/Images/img-mission-background.jpg);
   align-items: center;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 #mission .content {
